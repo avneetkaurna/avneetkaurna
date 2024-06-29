@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Avneet Kaur
-- 👀 I’m interested in Data Science, Artificial Intelligence, Machine Learning and Quantum Computing
+- 👀 I’m interested in Data Science, Artificial Intelligence, Machine Learning, Cloud Computing and Quantum Computing
 - 🌱 I’m currently pursuing a M.Sc. in Applied Modelling and Quantitative Methods with specialization in Big Data Analytics from Trent University
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me : kauravneet0120@gmail.com
